@@ -18,7 +18,7 @@ If you want to see **what I'm learning, how I'm applying it, and how my skills a
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,keras,pandas,numpy,git,github,vscode,react,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,keras,pandas,numpy,git,github,vscode,html,css,typescript" />
 </p>
 
 ### 🔥 GitHub Streak
